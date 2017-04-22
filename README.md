@@ -1,24 +1,5 @@
-# README
+# Udemy Rails Course
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a repo for a Udemy course on learning Ruby on Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using ruby version 2.4
