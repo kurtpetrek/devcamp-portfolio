@@ -15,3 +15,9 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# no Secrets
+/config/secrets.yml
+
+# no DS_Store
+.DS_Store
